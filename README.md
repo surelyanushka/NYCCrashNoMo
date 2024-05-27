@@ -1,6 +1,7 @@
 # NYCCrashNoMo
 
-![Screenshot 2024-05-12 at 11.30.49 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3a28251-b325-49bf-8234-142aea57f28f/54392791-98d4-47f1-a00a-b3c0ebd542f9/Screenshot_2024-05-12_at_11.30.49_AM.png)
+<img width="641" alt="Screenshot%202024-05-12%20at%2011 30 49%E2%80%AFAM" src="https://github.com/surelyanushka/NYCCrashNoMo/assets/56227926/d846379e-09b1-41cc-b3c6-0bb62f34d50a">
+
 
 ## **Project Overview**
 
